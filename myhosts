@@ -1,0 +1,13 @@
+
+
+[mywebservers]
+172.31.0.208
+172.31.11.190
+
+
+
+[ubuntuserver]
+172.31.0.208
+
+[RedHatserver]
+172.31.11.190
